@@ -2,7 +2,7 @@
 
 ### Smart Transfer: Leveraging Vision Foundation Models for Rapid Building Damage Mapping with Post-Earthquake VHR Imagery 🚁
 
-In this paper, we propose a novel Foundation Model-based  GeoAI framework, namely Smart Transfer, leveraging prototype clustering and spatial autocorrelation to adapt state-of-the-art vision FM backbones for robust cross-regional building damage mapping, with minimal training and ground truth labels.
+In this paper, we propose a novel Foundation Model-based  GeoAI framework, namely **Smart Transfer**, leveraging prototype clustering and spatial autocorrelation to adapt **state-of-the-art vision FM** backbones for robust **cross-regional building damage mapping**, with minimal training and ground truth labels.
 
 <p align="center">
   <img src="./images/Diagram.png" width="60%">
