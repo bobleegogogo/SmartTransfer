@@ -19,9 +19,9 @@ pip install -e .
 ```
 
 
-## 📦 Open Datasets
-We provide download links for the following components:
-- smart_transfer_data
+## 📦 Open Datasets - ST_Turkey_2023
+To faciliate the reproducibility, we made our dataset **ST_Turkey_2023** openly available for the research community. The download links (in both Baidu and Google) are provided as follows, which include the following components:
+- smart_transfer_data for training
 - tiles_meta
 - GlobalBuildingAtlas (derived from: https://doi.org/10.5194/essd-17-6647-2025)
 
@@ -35,7 +35,7 @@ https://pan.baidu.com/s/1a6UvOLxcE_BWcq-qgpOGLA (Password: `2026`)
   <img src="./images/Dataset.jpeg" width="95%">
 </p>
 
-The following components are **not included** and need to be downloaded manually:
+The following components are **not included** thus need to be downloaded manually:
 - DINOv3 repository (model backbone)
 - ViT-L/16 distilled (model weights)
 
@@ -121,6 +121,5 @@ Wufan Zhao},
      url={},
 }
 ```
-
 
 ## 🧑‍🤝‍🧑 Acknowledge
