@@ -59,8 +59,8 @@ def get_default_cfg():
         "lora_dropout": 0.0,
 
         # path
-        "save_dir": "/mnt/liwei/turkey/DINOV3/checkpoints/turkey/fullsup-new/dinov3-128-ssdcpc",
-        "data_root": "./data/smart_transfer_data_128",
+        "save_dir": "./outputs",
+        "data_root": "./data/smart_transfer_data",
         "footprint_dir": "./data/GlobalBuildingAtlas",
         "geo_json_dir": "./data/tiles_meta",
         "repo_dir": "./backbone/dinov3",

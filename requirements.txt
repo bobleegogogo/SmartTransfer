@@ -1,0 +1,14 @@
+torch
+torchvision
+numpy
+pandas
+scipy
+scikit-learn
+tqdm
+segmentation-models-pytorch
+matplotlib
+Pillow
+geopandas
+pyproj
+shapely
+rasterio

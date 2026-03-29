@@ -33,7 +33,7 @@ def load_cfg():
     return cfg
 
 def main():
-    setup_runtime_patches()
+    setup_runtime_patches()     # optional environment patch
     cfg = load_cfg()
     device, use_amp = setup_env()
     
